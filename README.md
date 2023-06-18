@@ -5,4 +5,3 @@ This repo displays the final project of this Database Applications and Informati
 This now serves as the first iteration of an ongoing personal project. Beyond things like overhauling the UI and developing a more robust algorithm, I am working to add features like automatic chip counting via image recognition and integrated payment processing with Venmo.
 
 ![alt text](https://github.com/thromwill/CS-3380/blob/main/app.jpg)
-![alt text](https://github.com/thromwill/INFOTC-4400/blob/main/Calculator/Calculator.png)
