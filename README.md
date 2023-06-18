@@ -5,5 +5,5 @@ This repo displays the final project of this Database Applications and Informati
 This now serves as the first iteration of an ongoing personal project. Beyond things like overhauling the UI and developing a more robust algorithm, I am working to add features like automatic chip counting via image recognition and integrated payment processing with Venmo.
 
 
-![alt text]("https://github.com/thromwill/CS-3380/blob/main/image.png")
+![alt text]("https://github.com/thromwill/CS-3380/blob/ad0bfbb0cc2b22cfe11d00083f46901a292efaa7/image.png")
 
