@@ -1,0 +1,32 @@
+Setup:
+
+Before running the application, you will need to install the following dependencies using pip:
+
+	Flask
+	mysql-connector-python
+
+You can install these dependencies by running the following command:
+
+	pip install Flask mysql-connector-python
+
+This application requires a MySQL database to store data. You can set up the database by following these steps:
+
+	Make sure the MySQL server is running on your machine.
+	Create a new database using the poker.sql schema file provided in this repository.
+
+	In app.py, configure your MySQL connection by updating the following lines with your MySQL server i	information:
+
+	# Configure MySQL connection
+	db = mysql.connector.connect(
+    		host="127.0.0.1",          # MySQL server hostname
+    		user="root",               # MySQL username
+    		password="password",       # MySQL password
+    		database="poker"   	   # MySQL database name
+	)
+	Replace the values for host, user, password, and database with your own MySQL server information.
+
+To run the application, simply execute the app.py file by running the following command:
+
+	python app.py
+
+The Flask application will be accessible at http://localhost:5000/ in your web browser.
